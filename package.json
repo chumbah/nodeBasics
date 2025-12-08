@@ -1,0 +1,21 @@
+{
+  "name": "wild_horizon",
+  "version": "1.0.0",
+  "description": "A dataset of the planet's most interesting places",
+  "homepage": "https://github.com/chumbah/nodeBasics#readme",
+  "bugs": {
+  "url": "https://github.com/chumbah/nodeBasics/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chumbah/nodeBasics.git"
+  },
+  "license": "ISC",
+  "author": "Alex Kipchumba",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
